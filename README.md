@@ -1,0 +1,2 @@
+# FunnyMapE
+skyblock funnymap mod
